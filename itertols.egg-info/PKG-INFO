@@ -1,0 +1,35 @@
+Metadata-Version: 2.4
+Name: itertols
+Version: 0.1.0
+Summary: Functions creating iterators for efficient looping
+Home-page: https://github.com/e-th3r/itertols
+Author: Eth33r
+Author-email: ztncrypted@gmail.com
+License: LICENSE.txt
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: inspect
+Requires-Dist: random
+Requires-Dist: math
+Requires-Dist: numpy
+Requires-Dist: fractions
+Requires-Dist: itertools
+Requires-Dist: scipy
+Requires-Dist: sympy
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+sdklfmsdlkf

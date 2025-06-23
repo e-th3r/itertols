@@ -1,0 +1,8 @@
+inspect
+random
+math
+numpy
+fractions
+itertools
+scipy
+sympy

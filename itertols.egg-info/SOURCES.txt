@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+itertols/__init__.py
+itertols/itertols.py
+itertols.egg-info/PKG-INFO
+itertols.egg-info/SOURCES.txt
+itertols.egg-info/dependency_links.txt
+itertols.egg-info/requires.txt
+itertols.egg-info/top_level.txt
